@@ -11,9 +11,8 @@ export default function Read() {
 
       <main>
         <h1>Terms and conditions</h1>
-        <p>It is upon the reader to practice or not practice the material contained in this website. There is no compulsion by the author to do so.</p>
-        <p>Contents of this website are the creation of the author and are copyrighted.</p>
-       </main>
+        <p>It is upon the reader to practice or not practice the material contained in this website. There is no compulsion by the author to do so. Contents of this website are the creation of the author and are copyrighted.</p>
+        </main>
 
     </div>
   )
