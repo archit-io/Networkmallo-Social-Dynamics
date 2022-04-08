@@ -44,11 +44,11 @@ const [dropdown, setDropdown] = useState(false);
                 <a className='nav-links' onClick={closeMobileMenu}>Articles</a>
                 </Link>
               </li>
-              <li className='nav-item'>
+              {/* <li className='nav-item'>
                 <Link href={ROUTES.SERVICES} >
                 <a className='nav-links' onClick={closeMobileMenu}>Services</a>
                 </Link>
-              </li>
+              </li> */}
               <li className='nav-item'>
                 <Link href={ROUTES.FAQS} >
                 <a className='nav-links' onClick={closeMobileMenu}>FAQs</a>

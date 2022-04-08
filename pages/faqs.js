@@ -15,7 +15,7 @@ export default function Faqs() {
         <ol>
             <li>
                 <h2 className={styles.h2Class}>Is this system free to learn?</h2>
-                <p>Yes, this system is absliutely free to learn. However, if you want you can support me by clicking on Buy me a coffee.</p>
+                <p>Yes, this system is absolutely free to learn. However, if you want you can support me by clicking on - Buy me a coffee.</p>
             </li>
             <li>
                 <h2 className={styles.h2Class}>Why have I created this website?</h2>
@@ -23,17 +23,17 @@ export default function Faqs() {
             </li>
             <li>
                 <h2 className={styles.h2Class}>What is the purpose of this website?</h2>
-                <p>To teach you a simple system to effectively grow your network by learning to approach and interact with random strangers</p>
+                <p>To teach you a simple system to effectively grow your network by learning to approach and interact with people you're not acquainted with presently.</p>
             </li>
             <li>
                 <h2 className={styles.h2Class}>What is this website not about?</h2>
-                <p>Although, it will indidrectly help in them, this website is not meant to teach the skills for social media networking, dating, etc.</p>
+                <p>Although it will indirectly help, this website is not meant to teach the skills for social media networking, dating, etc.</p>
             </li>
             <li>
-                <h2 className={styles.h2Class}>Do the system given herein really work?</h2>
-                <p>Make no mistake, the system I'm giving you is one of the most effective ones in the world (yes you read it right!) for effectively expanding your network. I have been learning about, improvising and teaching it for almost last ten years. So, yes it works! But you'll have to trust the system and put in the work.</p>
+                <h2 className={styles.h2Class}>Does the system herein really work?</h2>
+                <p>Make no mistake, the system I'm giving you is one of the most effective ones in the world (yes you read it right!) for effectively expanding your network. I have been learning about, improvising, and teaching it for almost the last ten years. So, yes it works! But you'll have to trust the system and put in the work.</p>
             </li>
-            <li>
+            {/* <li>
                 <h2 className={styles.h2Class}>What are the factors that will ensure our success in learning this system?</h2>
                 <p>
                     <ol>
@@ -44,17 +44,13 @@ export default function Faqs() {
                         <li></li>
                     </ol>
                 </p>
-            </li>
+            </li> */}
             <li>
                 <h2 className={styles.h2Class}>Is this system gender specific?</h2>
-                <p>Yes, this system varies according to the gender, just because of the fact that interpersonal communication varies according to the gender. This is the truth. So while going thrugh it make sure that you check out the section relevant to your gender.</p>
+                <p>Yes, this system varies according to gender, just because of the fact that interpersonal communication varies according to gender. So while going through it make sure that you check out the section relevant to your gender.</p>
             </li>
         </ol>
     </section>
-    <section>
-        <span><a href="#">System</a></span>
-    </section>
-
     </div>
   )
 }
