@@ -38,20 +38,20 @@ export default function Practice1() {
             </ol>
         </li>
     </ol>
-    <p>This is all you need to do the upcoming exercise.</p>
+    <p>This is all you need to do for the upcoming exercise.</p>
     <h2>Exercise</h2>
     <ol>
         <li>Choose a venue a day before, it can be a mall, a market, an event not related to your profession, etc.</li>
         <li>Get groomed and ready</li>
-        <li>Use a public transport and show up there</li>
-        <li>Using the principles mentioned in the 'Talking magically' you have to make conversation with atleast one person. It can be the cab driver or a copassenger or anyone.</li>
-        <li>The conversation, has to be as long as possible. Don't stop the conversation in a couple of minutes, even if it gets a bit uncomfortable. Only leave the conversation once the journey for anyone of you completes or the other person explicitly mentions that they don't want to talk more. Yes. you should not be afraid of getting rejected, that's the point. Take the conversation as long as posssible.</li>
+        <li>Use a public transport to travel and show up there</li>
+        <li>Using the principles mentioned in the 'Talking magically' you have to make conversation with at least one person. It can be the cab driver or a co-passenger or anyone.</li>
+        <li>The conversation has to be as long as possible. Don't stop the conversation in a couple of minutes, even if it gets a bit uncomfortable. Only leave the conversation once the journey for anyone of you completes or the other person explicitly mentions that they don't want to talk more. Yes. you should not be afraid of getting rejected, that's the point. Take the conversation as long as possible.</li>
         <li>Once you have built a connection, either exchange number or email.</li>
-        <li>When you reach the venue, you have to talk in the same manner as described above to three more people on the first week. From the second week, it will be four and from subsequent weeks it will be five people per day, excluding to one person on the way to your venue</li>
-        <li>Ensure that you change your venue every day. You don't want to be doing this a a single venue for more than onece a week.</li>
-        <li>When you get back to your home, save the details of the people you interacted with in the spreadsheet.</li>
-        <li>You don't need to followup with them at this parctice-1 stage, however, if you find someone of interest to you, you may follow up with them</li>
-        <li>That's it. You have begun to develop the skill of effective networking that most of the people don't have.</li>
+        <li>When you reach the venue, you have to talk in the same manner as described above to three more people in the first week. From the second week, it will be four and in subsequent weeks it will be five people per day, excluding one person on the way to your venue</li>
+        <li>Ensure that you change your venue every day. You don't want to be doing this in a single venue more than once a week.</li>
+        <li>When you get back to your home, save the details of the people you interacted with within the spreadsheet.</li>
+        <li>You don't need to follow up with them at this practice-1 stage, however, if you find someone of interest to you, you may follow up with them</li>
+        <li>That's it. You have begun to develop the skill of effective networking that most people don't have.</li>
     </ol>
     </div>
   )

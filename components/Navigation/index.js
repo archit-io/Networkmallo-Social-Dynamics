@@ -35,13 +35,13 @@ const [dropdown, setDropdown] = useState(false);
                 </Link>
               </li>
               <li className='nav-item'>
-                <Link href={ROUTES.ARTICLES} >
-                <a className='nav-links' onClick={closeMobileMenu}>Articles</a>
+                <Link href={ROUTES.SYSTEM} >
+                <a className='nav-links' onClick={closeMobileMenu}>System</a>
                 </Link>
               </li>
               <li className='nav-item'>
-                <Link href={ROUTES.SYSTEM} >
-                <a className='nav-links' onClick={closeMobileMenu}>System</a>
+                <Link href={ROUTES.ARTICLES} >
+                <a className='nav-links' onClick={closeMobileMenu}>Articles</a>
                 </Link>
               </li>
               <li className='nav-item'>

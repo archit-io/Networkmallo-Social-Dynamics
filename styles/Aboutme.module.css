@@ -31,13 +31,17 @@
 }
 
 @media all and (max-width: 900px) {
+
+    .mainClass {
+        text-align: left;
+    }
     
     .mainClass > section:first-child {
-        width: 90%;
+        width: 100%;           
     }
     
     .mainClass > section:last-child {
-        width: 90%;
+        width: 100%;
     }
 
     .mainClass section + section {

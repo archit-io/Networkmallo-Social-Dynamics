@@ -11,24 +11,24 @@ export default function Read() {
 
       <main>
         <h1>Read and understand all the articles</h1>
-        <p>To get most out of this system you have to follow a very specific process, which may sound very simple on the facevalue but is very profound and distilled to its core principles.</p>
+        <p>To get the most out of this system you have to follow a very specific process, which may sound very simple at the face value but is very profound and distilled to its core principles.</p>
         <p>Firstly watch these two videos: <a href="https://aliabdaal.com/activerecallstudytechnique/">active recall</a> and <a href="https://aliabdaal.com/spaced-repetition/">spaced repitition</a></p>
-        <p>After you watch and understand the principles of active recall and spaced repetition, you can download an app called AnkiDroid on your android smartphone or you can use its <a href="https://ankiweb.net/">web</a> version. It's a free app. Save all the principles you learn daily, on Anki and open it daily for your revisoin. That's all you need for following active rcall and spaced repetition, and hece internalize the principles you're going to learn here and remember them forever!</p>
-        <p>Secondly, remember about some more principles that are necessary to get the most out of this system.</p>
+        <p>After you watch and understand the principles of active recall and spaced repetition, you can download an app called AnkiDroid on your android smartphone or you can use its <a href="https://ankiweb.net/">web</a> version. It's a free app. Save all the principles you learn daily, on Anki and open it daily for your revision. That's all you need for following the active recall and spaced repetition, and hence internalize the principles you're going to learn here and remember them forever!</p>
+        <p>Secondly, some more principles are necessary to get the most out of this system.</p>
         <ul>
-            <li>You got yo have a strong desire to increase your ability to interact effectively with people and grow your network. Visualise the benefits it will have on your life if you have this skillset.</li>
+            <li>You got to have a strong desire to increase your ability to interact effectively with people and grow your network. Visualize the benefits it will have on your life if you have this skill set.</li>
             <li>Practice the principles you learn in this system. Merely reading them will not make any difference.</li>
             <li>
-                <p>Review your progress once. every week. Ask yourself three questins:</p>
+                <p>Review your progress once every week. Ask yourself these three questions:</p>
                 <ol>
-                    <li>What did i do right?</li>
-                    <li>What did i do wrong?</li>
+                    <li>What did I do right?</li>
+                    <li>What did I do wrong?</li>
                     <li>What can be improved?</li>
                 </ol>
             </li>
-            <li>Whenevr you succeed, reward yourself immediately. It may not be an external reward, just feel the joy of every small success and feel proud that you have progressed.</li>
+            <li>Whenever you succeed, reward yourself immediately. It may not be an external reward, just feel the joy of every small success and feel proud that you have progressed.</li>
         </ul>
-        <p>Also, before starting to implement this system, read all the other articles present in this site, understand their principles and get them down in anki for internalization. Once you have done so, you can start the system again and move along systematically alng with practicing it.</p>
+        <p>Also, before starting to implement this system, read all the other articles present on this site, understand their principles and get them down in Anki for internalization. Once you have done so, you can start the system again and move along systematically along with practicing it.</p>
        </main>
 
     </div>
