@@ -1,0 +1,10 @@
+{
+  "extends": "next/core-web-vitals",
+  
+    // other configs...,
+    "rules": {
+      "react/display-name": "off",
+      "react/no-unescaped-entities": 0 
+  }
+  
+}

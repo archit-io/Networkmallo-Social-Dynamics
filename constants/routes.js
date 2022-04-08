@@ -1,0 +1,14 @@
+export const SIGN_UP = "/signup";
+export const SIGN_IN = "/signin";
+//export const SIGN_UP_OTP = '/sign-in-otp'
+export const LANDING = "/";
+export const HOME = "/home";
+export const ABOUT = "/aboutme";
+export const ARTICLES = "/articles";
+export const SYSTEM = "/system";
+export const SERVICES = "/services";
+export const FAQS = "/faqs";
+export const CONTACT = "/contact";
+export const REDIRECT_TO_PAYMENT = "/redirect-to-payment-page";
+export const PAYMENT_PAGE = "/payment-page";
+export const PAYMENT_STATUS = "/payment-status";
