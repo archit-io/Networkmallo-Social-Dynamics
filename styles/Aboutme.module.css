@@ -37,11 +37,13 @@
     }
     
     .mainClass > section:first-child {
-        width: 100%;           
+        width: 100%;  
+        margin-left: 0;         
     }
     
     .mainClass > section:last-child {
         width: 100%;
+        margin-left: 0;
     }
 
     .mainClass section + section {
