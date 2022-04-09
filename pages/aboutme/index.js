@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../../styles/Aboutme.module.css'
-import mypic from '../../public/images/archit.jpg'
 
 export default function Aboutme() {
   return (
@@ -20,14 +19,7 @@ export default function Aboutme() {
             <p>I had been a very shy and introverted guy since my childhood. I was unable to communicate effectively due to my introversion. This continued till my college. Then I decided to take matters into my own hands and learn about human communication and behavior. I studied a lot of psychology, self-help, and books about human behavior. However, the more I read the more confused I got. Then one day I found a community of like-minded individuals who were working to study and learn about the same area. I took mentorship from a few of them. They took me out into the real world and made me approach and interact with people. From day one itself, I understood that my life would now never be the same. They taught me concrete and actionable steps that I learned and improvised with great diligence over the years. I realized this skill couldn't be learned by reading books or in college, but it can be learned gradually by deliberately, systematically, and consistently interacting with a large number of people. </p>
         </section>
         <section>
-            <Image 
-              src={mypic} 
-              alt="archit" 
-              width= "100%"
-              height="100%"
-              layout='responsive'
-              className={styles.Aboutme}
-            />
+            <img src="/images/archit.jpg" />
         </section>
         </main>
 

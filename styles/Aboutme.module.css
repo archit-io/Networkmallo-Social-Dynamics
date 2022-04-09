@@ -9,11 +9,16 @@
 }
 
 .mainClass > section:first-child {
-    width: 55%;
+    width: 50%;
 }
 
-.mainClass > section:last-child {
-    width: 35%;
+.mainClass > section:last-child {    
+    margin-top: 110px;
+    width: 40%;
+}
+
+.mainClass > section:last-child img {
+    width: 100%;
 }
 
 .mainClass section + section {
@@ -46,9 +51,14 @@
         margin-left: 0;
     }
 
+    .mainClass > section:last-child img {
+        margin-top: -70px;
+        margin-bottom: 50px;
+    }
+
     .mainClass section + section {
         width: 100%;
-        margin-top: 30px;
+        margin-top: 0;
         margin-left: 0;
     }
 }
