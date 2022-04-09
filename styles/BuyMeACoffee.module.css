@@ -1,0 +1,16 @@
+.coffeeSpan {
+    display: inline-block;
+    width: 180px;
+    height:auto;
+}
+
+.coffeeSpan img {
+    width: 100%;
+    height: auto;
+}
+
+@media screen and (max-width:800px) {
+    .coffeeSpan {
+        text-align: center;
+    }
+}

@@ -22,7 +22,7 @@ export default function Bodylanguage() {
             <li>It would be great if you have a pillar or a wall or any object at that distance</li>
             <li>Now talk to it for 10-15 minutes loudly</li>
             <li>Don't care about what other think about you</li>
-            <li>This task is difficult since a few people may invariably observe you, but trsut the process and do it</li>
+            <li>This task is difficult since a few people may invariably observe you, but trust the process and do it</li>
             <li>Starting from today, do it every day for five days</li>
             <li>After a few days find a busy public place (like a road) where no one would recognize you and do the above task for another five days</li>
         </ol>

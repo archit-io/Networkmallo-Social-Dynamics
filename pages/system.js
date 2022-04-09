@@ -38,13 +38,13 @@ export default function System() {
     <section>
         <h2>How to use this system?</h2>
         <p>Firstly, trust the system. Just give it a couple of weeks of practice. It will be very difficult during the first few days to a week, but if you take massive action amidst discomfort, you'll start enjoying it and the results will start showing up really fast.</p>
-        <p>Secondly, before implementing get as much understanding of the concepts behind the system as you can. Do this by going to the articles section and reading all the articles. Also, remember don't get into the trap of reading the psychology and self-help material on the internet. For at least a month or so avoid the temptation of reading the external self-development or personality development books/videos/articles. The articles I have written are sufficient and then all you require is to learn through practice. In case it doesn't work out for a month, you can always do whatever you want. So take a week or so or read all the articles and get the gist behind them.</p>
-        <p>Once you have read and understood most of the articles we will start implementing the system.</p>
+        <p>Secondly, before implementing get as much understanding of the concepts behind the system as you can. Do this by going to the articles section and reading all the articles. Also, remember don't get into the trap of reading the psychology and self-help material on the internet. For at least a month or so avoid the temptation of reading the external self-development or personality development books/videos/articles. The articles I have written are sufficient and then all you require is to learn through practice. In case it doesn't work out for a month, you can always do whatever you want. So take a week or so to read all the articles and get the gist behind them.</p>
+        <p>Once you have read and understood most of the articles, we will start implementing the system.</p>
         <h2>Implementing the system:</h2>
         <ol>
             <li>Read and understand all the articles <Link href='/articles' ><a>click here</a></Link>  
             </li>
-            <li>Take a break. After you have done the reading, take a day off. Relax. Engage in you favourite hobby or just chill out.</li>
+            <li>Take a break. After you have done the reading, take a day off. Relax. Engage in your favourite hobby or just chill out.</li>
             <li>Now, start the practices mentioned in the articles section one by one until you become a networking ninja.</li>
         </ol>
     </section>

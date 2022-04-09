@@ -4,6 +4,7 @@ import Link from 'next/link';
 import * as ROUTES from '../../constants/routes';
 
 import Head from 'next/head'
+import BuyMeACoffee from '../BuyMeACoffee';
 
 function Navigation(props) {
 
@@ -58,6 +59,9 @@ const [dropdown, setDropdown] = useState(false);
                 <Link href={ROUTES.CONTACT} >
                 <a className='nav-links' onClick={closeMobileMenu}>Contact</a>
                 </Link>
+              </li>
+              <li className='nav-item'>
+                <span className='nav-links' onClick={closeMobileMenu}><BuyMeACoffee /></span>
               </li>
             </ul>
           </nav>    
