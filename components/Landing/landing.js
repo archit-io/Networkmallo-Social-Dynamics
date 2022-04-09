@@ -59,11 +59,11 @@ function Landing() {
                 <section>
                     <h2>Disclaimer</h2>
                     <p>This system works and is effective, period. But, it's ultimately upon you to practice it diligently, consistently, and in a correct manner. It is very effective in dealing with a general lack of ability in communication and networking skills, however, if you have been facing severe emotional or mental health issues it is advisable that you see your therapist first. In the rest of the cases, you're going to have an awesome time.</p>
-                    <p>Also, this website is for educational purpose only. It is expected that you read <Link href="/tandc"><a>terms and conditions</a></Link> before proceeding any further with this website and the system contained herein. </p>
+                    <p>Also, this website is for educational purpose only. It is expected that you read <Link href="/tandc"><a aria-label="terms and conditions">terms and conditions</a></Link> before proceeding any further with this website and the system contained herein. </p>
                 </section>
                 <section>
                     <span>
-                        <Link href="/system"><a>Learn the system</a></Link>
+                        <Link href="/system"><a aria-label="learn the system">Learn the system</a></Link>
                     </span>
                 </section>    
             </section>

@@ -5,10 +5,10 @@ export default function LandingPage() {
   return (
     <div>
       <Head>
-        <title>Networkmallo.com</title>
+        <title>Networkmallo</title>
         <meta name="description" content="Learn the art of realtime networking" />
         <meta property="og:description" content="Learn the art of realtime networking" />
-        <meta property="og:title" content="Networkmallo.com" />
+        <meta property="og:title" content="Networkmallo" />
         <meta name="keywords" content="social networking,lifestyle coach,networkmallo,network mallo" />
         <meta property="og:url" content="https://networkmallo.com/" />
         <meta property="og:type" content="website" />

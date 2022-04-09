@@ -27,22 +27,22 @@ const [dropdown, setDropdown] = useState(false);
             <ul className={click ? 'nav-menu active' : 'nav-menu'}>
               <li className='nav-item'>
                 <Link href={ROUTES.LANDING} >
-                <a className='nav-links' onClick={closeMobileMenu}>Home</a>
+                <a className='nav-links' onClick={closeMobileMenu} aria-label="home link">Home</a>
                 </Link>
               </li>
               <li className='nav-item'>
                 <Link href={ROUTES.ABOUT} >
-                <a className='nav-links' onClick={closeMobileMenu}>About me</a>
+                <a className='nav-links' onClick={closeMobileMenu} aria-label="about me link">About me</a>
                 </Link>
               </li>
               <li className='nav-item'>
                 <Link href={ROUTES.SYSTEM} >
-                <a className='nav-links' onClick={closeMobileMenu}>System</a>
+                <a className='nav-links' onClick={closeMobileMenu} aria-label="system link">System</a>
                 </Link>
               </li>
               <li className='nav-item'>
                 <Link href={ROUTES.ARTICLES} >
-                <a className='nav-links' onClick={closeMobileMenu}>Articles</a>
+                <a className='nav-links' onClick={closeMobileMenu} aria-label="articles link">Articles</a>
                 </Link>
               </li>
               {/* <li className='nav-item'>
@@ -52,16 +52,16 @@ const [dropdown, setDropdown] = useState(false);
               </li> */}
               <li className='nav-item'>
                 <Link href={ROUTES.FAQS} >
-                <a className='nav-links' onClick={closeMobileMenu}>FAQs</a>
+                <a className='nav-links' onClick={closeMobileMenu} aria-label="faq link">FAQs</a>
                 </Link>
               </li>
               <li className='nav-item'>
                 <Link href={ROUTES.CONTACT} >
-                <a className='nav-links' onClick={closeMobileMenu}>Contact</a>
+                <a className='nav-links' onClick={closeMobileMenu} aria-label="contact link">Contact</a>
                 </Link>
               </li>
               <li className='nav-item'>
-                <span className='nav-links' onClick={closeMobileMenu}><BuyMeACoffee /></span>
+                <span className='nav-links' onClick={closeMobileMenu} aria-label="buy me a coffee widget link"><BuyMeACoffee /></span>
               </li>
             </ul>
           </nav>    
