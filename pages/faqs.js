@@ -17,10 +17,10 @@ export default function Faqs() {
                 <h2 className={styles.h2Class}>Is this system free to learn?</h2>
                 <p>Yes, this system is absolutely free to learn. However, if you want you can support me by clicking on - Buy me a coffee.</p>
             </li>
-            <li>
+            {/* <li>
                 <h2 className={styles.h2Class}>Why have I created this website?</h2>
                 <p></p>
-            </li>
+            </li> */}
             <li>
                 <h2 className={styles.h2Class}>What is the purpose of this website?</h2>
                 <p>To teach you a simple system to effectively grow your network by learning to approach and interact with people you're not acquainted with presently.</p>
