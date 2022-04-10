@@ -5,7 +5,8 @@ export default function LandingPage() {
   return (
     <div>
       <Head>
-        <title>Networkmallo</title>
+        <title>Networkmallo - Network your way to success</title>
+        <meta charSet='utf-8' />
         <meta name="description" content="Learn the art of realtime networking" />
         <meta property="og:description" content="Learn the art of realtime networking" />
         <meta property="og:title" content="Networkmallo" />
