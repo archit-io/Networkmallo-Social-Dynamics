@@ -49,7 +49,7 @@ function Landing() {
                     <h2>What can you expect from this system?</h2>
                     <p>If you follow this system diligently, you can expect the following results from this system.</p>
                     <ul>
-                        <li>Ability to approach stragers and make positive impact on them</li>
+                        <li>Ability to approach strangers and make positive impact on them</li>
                         <li>Massive growth in your network</li>
                         <li>Better communication skills</li>
                         <li>Career growth, salary hike, promotion etc.</li>
