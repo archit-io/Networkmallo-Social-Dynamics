@@ -17,9 +17,6 @@ const [dropdown, setDropdown] = useState(false);
   return(
     
     <div>
-        <Head>
-            <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" />
-        </Head>
         <nav className='navbar'>            
             <div className='menu-icon' onClick={handleClick}>
               <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
@@ -64,7 +61,8 @@ const [dropdown, setDropdown] = useState(false);
                 <span className='nav-links' onClick={closeMobileMenu} aria-label="buy me a coffee widget link"><BuyMeACoffee /></span>
               </li>
             </ul>
-          </nav>    
+          </nav>
+          <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" />    
         </div>
   )
 
