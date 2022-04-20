@@ -6,7 +6,7 @@ function Landing() {
         return (
             <section data-aos="fade-up" className="block container block-domain">
                 <main>
-                    <h1>Welcome!!!</h1>
+                    <h1>Welcome to Networkmallo !!!</h1>
                     <p>This website is meant to give you a simple system to learn how to approach, interact and network with real people in your daily life in order to grow your professional network. It aims to do so in a very specific manner. Don't overestimate this system, and also don't underestimate it.</p> 
                 </main>
                 <section>
