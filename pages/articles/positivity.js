@@ -21,7 +21,7 @@ export default function Positivity() {
         <ol>
             <li>Always be positive. Positivity and negativity both come back to you after completing the circle.</li>
             <li>Always appreciate people. Don't flatter, appreciate in a genuine manner. Flattery backfires.</li>
-            <li>Never criticize people. Look at the psoitive aspects of even the evil ones. Make it a habit.</li>
+            <li>Never criticize people. Look at the positive aspects of even the evil ones. Make it a habit.</li>
             <li>Never get involved in an argument. Even if you win an argument, you'll hurt the ego and pride of your opponent, they will not think highly about you in the future. Always, be polite and try to sort out the argument by reaching a common ground.</li>
             <li>Try to think from other's perspectives and then you'll see why people did what they did, and in doing so you'll develop empathy for the people, resolve the conflicts and go far in life</li>
             <li>Be genuinely interested in people</li>
